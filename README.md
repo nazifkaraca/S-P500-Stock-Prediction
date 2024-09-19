@@ -26,7 +26,7 @@ In this project, I explored different machine learning techniques to predict the
 
 ## Dataset
 
-The data for this project was obtained from Kaggle's [S&P 500 stock data](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks). It includes the historical daily stock prices (Open, High, Low, Close, and Volume) for S&P 500 companies.
+The data for this project was obtained from Kaggle. It includes the historical daily stock prices (Open, High, Low, Close, and Volume) for S&P 500 companies.
 
 - **Dataset Source**: [S&P 500 Stocks Dataset on Kaggle](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks)
 - **Data Features**:
