@@ -2,6 +2,12 @@
 
 This project focuses on predicting stock prices for companies in the S&P 500 index using both supervised and unsupervised machine learning algorithms. The main goal was to explore different algorithms and evaluate their performance in predicting future stock prices based on historical data.
 
+***<ins>Kaggle links to projects:<ins>***
+
+- **[Supervised Learning](https://www.kaggle.com/code/nazifkaraca/supervisedlearning/notebook)**
+
+- **[Unsupervised Learning](https://www.kaggle.com/code/nazifkaraca/unsupervisedlearning/notebook)**
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
